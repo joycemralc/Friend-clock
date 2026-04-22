@@ -1,0 +1,6 @@
+{
+  "name": "Chrono Clock",
+  "description": "A high-precision, technical clock application featuring analog and digital displays with a designer aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
